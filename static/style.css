@@ -9,6 +9,9 @@ body{
 	height: 100%;
 	margin: 0;
 	background-color: black;
+	background-size: cover;
+        background-position: center center;
+    	background-attachment: fixed;
 }
 
 /* Website Title */
