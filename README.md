@@ -1,6 +1,6 @@
 # App_IPL_Score_Prediction
 
---> A Machine Learning Web App that can predict the first inning score of an ipl match file. Users provide various inputs such as name of batting team, bowling team, venue and so on. Based on these inputes the app provides a range of scores that the batting team can score. The app is created with the help of ```Flask``` and is currently deployed on ```Heroku``` platform.
+--> A Machine Learning Web App that can predict the first inning score of an IPL match. Users provide various inputs such as name of batting team, bowling team, venue and so on. Based on these inputes the app provides a range of scores that the batting team can score. The app is created with the help of ```Flask``` and is currently deployed on ```Heroku``` platform.
 
 Visit: https://ipl-score-app.herokuapp.com/
 
