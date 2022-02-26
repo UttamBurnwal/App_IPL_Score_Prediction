@@ -6,8 +6,13 @@ Visit: https://ipl-score-app.herokuapp.com/
 
 ## A glimpse of the web app
 
- ![GIF](readme_resources/ipl-first-innings-score-web-app.gif)
+* Home Page
+
+ ![GIF](static/gif.gif)
  
+* Predict Page
+
+ ![IMAGE](static/ipl.PNG)
 
 ## Directory Tree
 --> Here are some details of the subdirectories and files that the repository contains. 
