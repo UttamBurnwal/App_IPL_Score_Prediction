@@ -6,13 +6,8 @@ Visit: https://ipl-score-app.herokuapp.com/
 
 ## A glimpse of the web app
 
-* Home Page
 
- ![GIF](static/gif.gif)
- 
-* Predict Page
-
- ![IMAGE](static/ipl.PNG)
+  ![GIF](static/gif.gif)
 
 ## Directory Tree
 --> Here are some details of the subdirectories and files that the repository contains. 
